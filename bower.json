@@ -5,7 +5,7 @@
   "homepage": "https://www.babylonjs.com",
   "repository": {
     "type": "git",
-    "url": "git://github.com/BabylonJS/Babylon.js.git"
+    "url": "git://github.com/fdmota/Babylon.js.git"
   },
   "authors": [
     "David Catuhe",
