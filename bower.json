@@ -20,39 +20,8 @@
   ],
   "license": "Apache-2.0",
   "ignore": [
-    "**/.*",
-    "node_modules",
-    "Babylon",
-    "Exporters",
-    "Loaders",
-    "Previous releases",
-    "/Tools",
-    "gulpfile.js",
-    "package.json",
-    "babylon.2.1*.*",
-    "*.md",
-    "*.yml",
-    "cannon.js",
-    "Oimo.js",
-    "poly2tri.js",
-
-    "contributing.md",
-    "tslint.json",
-    "what's new.md",
-
-    "assets/",
-    "Exporters/",
-    "gui/",
-    "/inspector",
-    "/loaders",
-    "/localDev",
-    "/materialsLibrary",
-    "Playground/",
-    "/postProcessLibrary",
-    "/proceduralTexturesLibrary",
-    "/sandbox",
-    "/serializers",
-    "/src",
-    "/tests"
+    "/*",
+    "/**",
+    "!/dist"
   ]
 }
