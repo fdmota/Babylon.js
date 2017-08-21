@@ -42,7 +42,7 @@
 
     "/assets",
     "/Exporters",
-    "/gui",
+    "/gui/**",
     "/inspector",
     "/loaders",
     "/localDev",
